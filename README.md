@@ -1,7 +1,7 @@
 # Kaggle Contest: LLM Prompt Recovery
 
 ## Background
-In collaboration with Sanath Goutham, I participated in a Kaggle Contest organized by Google on LLM Prompt Recovery. The objective was to identify or recover the original prompt used for rewritten text from the original text.
+In collaboration with @sonishubham11, I participated in a Kaggle Contest organized by Google on LLM Prompt Recovery. The objective was to identify or recover the original prompt using rewritten text from the original text.
 
 ## Approaches
 
@@ -28,4 +28,4 @@ The notebook files for training and inferencing can be found in the "Gemma-7b-it
 
 ## Leaderboard Performance
 We secured the 143rd place among other teams in the contest.
-
+Which was in Top 7% of the ranking.
